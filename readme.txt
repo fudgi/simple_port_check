@@ -6,3 +6,4 @@
 - Кабель для сопряжения мультиметра и компьютера по СОМ-порту.
 
 Подробное описание работы с программой [тут](https://github.com/fudgi/simple_port_check/blob/master/Инструкция%20по%20работе%20с%20программой.pdf)
+[I'm an inline-style link](https://www.google.com)
